@@ -22,7 +22,6 @@ This is a beginner database programming project using Python and MySQL.
 - `project2.py` - Main Python program
 - `schema.sql` - Creates the database and tables
 - `sample_data.sql` - Inserts sample starter data
-- `example_output.txt` - Example program output
 
 ## How to run
 
